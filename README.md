@@ -1,1 +1,1 @@
-# day1
+This is a source code for the Day 1 video: your first Java program in 7 minutes.
